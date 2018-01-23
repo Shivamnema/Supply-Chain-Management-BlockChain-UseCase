@@ -6,7 +6,7 @@
 ### The API performs following functions: 
 
   - Registering Stakeholders(Manufacturer, Distributor and User) by providing Name, Password and type. It returns UserID.
-  -  Login user with the User Id and Password.
+  - Login user with the User Id and Password.
   - Register the mobile for the auction.
   - View the mobile and Track the owners and journey in the supply chain. 
   - Transferring the ownership of the mobiles.
@@ -19,7 +19,7 @@
 This supply chain management system uses multiple technologies:
 
 * [Ethereum Blockchain](https://geth.ethereum.org/downloads/)- Ethereum Blockchain Stack (Tool used: Geth) 
-* [VS-Code](https://code.visualstudio.com/) - awesome web-based text editor
+* [VS-Code](https://code.visualstudio.com/) - Text Editor for writing code
 * [Twitter Bootstrap] - great UI boilerplate for modern web apps
 * [node.js] - evented I/O for the backend
 * [Express] - fast node.js network app framework [@tjholowaychuk]

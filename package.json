@@ -1,0 +1,21 @@
+{
+    "name": "sample",
+    "version": "1.0.0",
+    "description": "The blockchain project for supply chain management.",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Shivam Nema-Innovation_labs",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.1",
+        "config.json": "0.0.4",
+        "cors": "^2.8.4",
+        "eris-db": "^0.15.12",
+        "express": "^4.15.4",
+        "path": "^0.12.7",
+        "solc": "^0.4.16",
+        "web3": "^0.19.1"
+    }
+}

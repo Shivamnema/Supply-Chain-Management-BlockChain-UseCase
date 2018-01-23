@@ -1,0 +1,27 @@
+setStackholder:
+
+"Shivam Nema","qwerty","0xca35b7d915458ef540ade6068dfe2f44e8fa733c","Manufacturer"
+"Rahul Nema","qwerty","0x14723a09acff6d2a60dcdf7aa4aff308fddc160c","Distributor"
+"SHubham Nema","qwerty","0x4b0897b0513fdc7c541b6d9d7e929c4e5364d2db","User"
+
+Logins:
+
+100,"qwerty","Manufacturer"
+101,"qwerty","Distributer"
+102,"qwerty","user"
+
+setMobile:
+
+100,"Smart Phone","j4","Touch"
+    
+
+
+
+0xeaaddb026a082232d872f4e40b9a0d4842c5ad05  100
+0x5f5dd53d4a81264fcc521fbb422737bf3637eb2f 101
+0x117650c57340ce0f687d9320742f8dd885067b84 113.
+0x87e05c47de44258fea9eb7603c129e8d995a0531 115
+0x95a56cf4cf7afe891e3f81398d9e40a57ebe9107 100
+
+
+0xf824976a245a590a713a34fd61b30b123a1ceb3e 100

@@ -11,6 +11,8 @@
   - View the mobile and Track the owners and journey in the supply chain. 
   - Transferring the ownership of the mobiles.
 
+![Application Flow and Functionalities](https://raw.githubusercontent.com/Shivamnema/Supply-Chain-Management---BlockChain-UseCase/master/supplychain.png)
+
 
 ### Tech Stack
 

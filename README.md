@@ -1,7 +1,7 @@
 # Supply-Chain-Management---BlockChain-UseCase
 # Supply Chain Management System
 
- “Mobile Supply Chain Management”, Where any one can track a mobile phone and view it's journey or “change of ownership” from one person to another. Thus, creating a chain of ownership from it's manufacturer to distributor to user. Using blockchain technology we can create a trusted, transparent system of this supply chain.
+“Supply Chain Management”, Using this supply chain management a user can view the journey of mobile phone from the manufacturer to it's user. Through blockchain technology we can create a trusted, transparent system of this supply chain.
 
 ### The API performs following functions: 
 

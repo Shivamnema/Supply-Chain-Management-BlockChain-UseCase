@@ -6,7 +6,7 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Shivam Nema-Innovation_labs",
+    "author": "Shivam Nema",
     "license": "ISC",
     "dependencies": {
         "body-parser": "^1.18.1",

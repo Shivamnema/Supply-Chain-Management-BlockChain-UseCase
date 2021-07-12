@@ -54,12 +54,12 @@ Open your favorite Terminal and run these commands.
 #### Create local chain:
 
 ```sh
-$ geth –rpc –rpcport “8085” --rpcapi=”db,eth,net,web3,personal,web3” --datadir data –networkid 123 –nodeiscover –maxpeers 0 init genesis.json
+$ geth –rpc –rpcport "8085" --rpcapi=”db,eth,net,web3,personal” --datadir data –networkid 123 –nodiscover –maxpeers 0 init genesis.json
 ```
 #### Launch Geth Console:
 
 ```sh
-$ geth –rpc –rpcport “8085” --rpcapi=”db,eth,net,web3,personal,web3” --datadir data –networkid 123 –nodeiscover –maxpeers 0 console
+$ geth –rpc –rpcport "8085" --rpcapi="db,eth,net,web3,personal" --datadir data –networkid 123 –nodiscover –maxpeers 0 console
 ```
 
 #### Create new account (in geth console):
